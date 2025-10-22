@@ -38,7 +38,7 @@ Transform your local shop into a digital powerhouse with inventory management, d
 
 ### Prerequisites
 - Node.js 18+ 
-- MongoDB
+- FIREBASE
 - Yarn package manager
 
 ### Installation
@@ -78,7 +78,7 @@ Transform your local shop into a digital powerhouse with inventory management, d
 
 ### **Backend**
 - **Next.js API Routes** (Serverless)
-- **MongoDB** with optimized queries
+- **FIREBASE** with optimized queries
 - **Multi-tenant Architecture** (Shop-scoped data)
 - **RESTful APIs** with CORS support
 
